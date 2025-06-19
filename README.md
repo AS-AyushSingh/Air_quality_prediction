@@ -66,5 +66,5 @@ Contact
 For questions, suggestions, or collaborations, please contact:
 
 Ayush Singh
-Email: [your-email@example.com]
+Email: singh.ayush290505@gmail.com
 GitHub: https://github.com/AS-AyushSingh
